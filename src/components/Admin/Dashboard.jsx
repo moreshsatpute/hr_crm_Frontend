@@ -3,6 +3,7 @@ import { Card, Col, Row } from 'antd';
 
 const Dashboard = () => (
   <>
+  
     <h1 style={{ textAlign: 'center', marginBottom: '20px', color: '#1890ff' }}>{} Dashboard</h1>
     <Row gutter={16} justify="center">
       <Col span={8}>
